@@ -2,3 +2,4 @@ Bu dosya CENG201 Algorithms Git lab çalışması için oluşturuldu.
 Bu satır lab-branch branch'inde eklendi.
 Bu satır feature-notes branch'inde eklendi.
 Bu satır GitHub üzerinden eklendi.
+Bu satır terminalden commit ve push denemesi için eklendi.
